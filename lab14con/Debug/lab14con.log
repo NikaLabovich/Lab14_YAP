@@ -1,0 +1,49 @@
+﻿  pch.cpp
+  Div.cpp
+  Error.cpp
+  FST.cpp
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\fst.cpp(61): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  In.cpp
+  IT.cpp
+  lab14con.cpp
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(26): warning C4566: character represented by universal-character-name '\u041F' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(26): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(26): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(26): warning C4566: character represented by universal-character-name '\u044C' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(26): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(26): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(26): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(26): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(26): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(26): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(26): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(26): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(26): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(26): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(26): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(28): warning C4566: character represented by universal-character-name '\u041F' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(28): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(28): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(28): warning C4566: character represented by universal-character-name '\u044C' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(28): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(28): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(28): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(28): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(28): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(28): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(28): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(28): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(28): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(28): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(28): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(38): warning C4129: 'H': unrecognized character escape sequence
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(38): warning C4129: 'D': unrecognized character escape sequence
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(38): warning C4129: 'i': unrecognized character escape sequence
+\\mac\home\desktop\учёба\2 курс 1 сем\iap\лабы\lab14con\lab14con\lab14con.cpp(38): warning C4129: 'l': unrecognized character escape sequence
+  LexAnaliz.cpp
+  Log.cpp
+  LT.cpp
+  Parm.cpp
+  PolishNotation.cpp
+  Generating Code...
+  lab14con.vcxproj -> \\Mac\Home\Desktop\Учёба\2 курс 1 сем\iap\лабы\lab14con\Debug\lab14con.exe
